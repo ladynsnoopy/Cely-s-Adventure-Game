@@ -1,0 +1,28 @@
+var class_firebase_manager =
+[
+    [ "ClearLoginFeilds", "class_firebase_manager.html#a9dd9f2a01ffecafe240096cec95924ec", null ],
+    [ "ClearRegisterFeilds", "class_firebase_manager.html#ab26d168df31092d3f20e4575481212b8", null ],
+    [ "CustomStageButton", "class_firebase_manager.html#a8a56fd22c2418500b69112fa3d7449fa", null ],
+    [ "LeaderboardButton", "class_firebase_manager.html#a868f7f66859cb6ace008662b8b1934d6", null ],
+    [ "LoginButton", "class_firebase_manager.html#ab316e1705f857e8067beb233b4c913b1", null ],
+    [ "MasteryReportButton", "class_firebase_manager.html#a5c3128055800a68c5611c85f415838a8", null ],
+    [ "PlayButton", "class_firebase_manager.html#a55c932feb2de07138ad75280e8b4dd23", null ],
+    [ "RegisterButton", "class_firebase_manager.html#a2235fce912d605d47381d49f1a71ce37", null ],
+    [ "SignOutButton", "class_firebase_manager.html#a83a4b2eb6b310d07555df3c82d6e2e6f", null ],
+    [ "TeacherButton", "class_firebase_manager.html#a1d2b677da04322858b22f95ef5a3be03", null ],
+    [ "auth", "class_firebase_manager.html#a0709049ffb9e795af81fc034d908cd1e", null ],
+    [ "confirmLoginText", "class_firebase_manager.html#aa57b5b6a8b4e66cef950a939478eb3b3", null ],
+    [ "DBreference", "class_firebase_manager.html#a6e1ef04f41e841f5c0c4fae93692f634", null ],
+    [ "dependencyStatus", "class_firebase_manager.html#afda3fbc7d5225c579bffd9cb97d85421", null ],
+    [ "emailLoginField", "class_firebase_manager.html#ac2b121d15cb14f81adcbbc892f7efc79", null ],
+    [ "emailRegisterField", "class_firebase_manager.html#a141ea5f7a3ca8e02a10e62debe18ca98", null ],
+    [ "passwordLoginField", "class_firebase_manager.html#a60d4a71cc58c3f4e97051770d0ba9e19", null ],
+    [ "passwordRegisterField", "class_firebase_manager.html#a3660fcbfda1f4d18a23733a30ae76fd3", null ],
+    [ "passwordRegisterVerifyField", "class_firebase_manager.html#aa738f5da8cd8dcd88034574800da0f94", null ],
+    [ "User", "class_firebase_manager.html#aa26c23fe6d5ade94b1a33ff8d58b684f", null ],
+    [ "userID", "class_firebase_manager.html#a9789b6537a4a39317974694427ced760", null ],
+    [ "usernameField", "class_firebase_manager.html#a657547071c91846203552f381f33ffdd", null ],
+    [ "usernameRegisterField", "class_firebase_manager.html#a20e51cf848ee6b3ffd9324128cf8d5db", null ],
+    [ "warningLoginText", "class_firebase_manager.html#abc402f4ac0025d43514c809c19666f7a", null ],
+    [ "warningRegisterText", "class_firebase_manager.html#a0259dcc9eeaf31b4da00bb1ff07a32e8", null ]
+];

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['savetojson_397',['SaveToJSON',['../class_custom_stage.html#a34e10171f48b874d73e3e5ca78fddd49',1,'CustomStage.SaveToJSON()'],['../class_player_info.html#ac6f68d63ae99288d2c71370859a202d5',1,'PlayerInfo.SaveToJSON()']]],
+  ['saveuserdatatofirebase_398',['SaveUserDataToFirebase',['../class_data_manager.html#a4901eb8726f2e0ae8738fca8188d4e41',1,'DataManager']]],
+  ['scoreboardscreen_399',['ScoreboardScreen',['../class_u_i_manager.html#a3003c0dd324a3e13ea1e37e6445415ac',1,'UIManager']]],
+  ['selectbackground_400',['SelectBackground',['../class_custom_stage_u_i_manager.html#ab6f025630e69f0d68d15345d8e35773a',1,'CustomStageUIManager']]],
+  ['selectpokemon_401',['SelectPokemon',['../class_custom_stage_u_i_manager.html#ab7985ad9539e0af786b1e35c1e4c7a0a',1,'CustomStageUIManager']]],
+  ['setanswers_402',['SetAnswers',['../class_quiz_manager.html#a9c74bcab431fcf6cabd7a03a1554adb3',1,'QuizManager']]],
+  ['setcurmap_403',['SetCurMap',['../class_data_manager.html#aae691b06b58bb921feed6da83780cf27',1,'DataManager']]],
+  ['setcurstage_404',['SetCurStage',['../class_data_manager.html#a5d9f7520b30429656f5c05a1ca150df6',1,'DataManager']]],
+  ['setnextmap_405',['SetNextMap',['../class_data_manager.html#a17621f03fd3c797f1d7543d52dc8ae3b',1,'DataManager']]],
+  ['shareonemail_406',['shareOnEmail',['../class_share_custom_stage.html#a9ea4cb5d2536a0a4069f7cec99d8815b',1,'ShareCustomStage']]],
+  ['shareontwitter_407',['shareOnTwitter',['../class_share_custom_stage.html#a951510735a73293afce2720803cc4901',1,'ShareCustomStage']]],
+  ['shareontwitter_408',['ShareOnTwitter',['../class_leaderboard_manager.html#a8c99f4b659033322ab15d8cdd2f130db',1,'LeaderboardManager']]],
+  ['shareontwitterleaderboard_409',['shareOnTwitterLeaderboard',['../class_leaderboard_manager.html#a8b278e4b7a31ae925cdb974b56b44725',1,'LeaderboardManager']]],
+  ['shareonwhatsapp_410',['shareOnWhatsApp',['../class_share_custom_stage.html#a4ceba87125d35db519514c007a21cc53',1,'ShareCustomStage']]],
+  ['shareonwhatsapp_411',['ShareOnWhatsapp',['../class_leaderboard_manager.html#acff0968aae1d724996de5f0a295d1d2a',1,'LeaderboardManager']]],
+  ['shareonwhatsappleaderboard_412',['shareOnWhatsAppLeaderboard',['../class_leaderboard_manager.html#aed2201615546324df4061a39f3826e38',1,'LeaderboardManager']]],
+  ['showdialog_413',['ShowDialog',['../class_dialog_manager.html#ad36b837a6a4bf84645d49c388fa95ac3',1,'DialogManager']]],
+  ['showquestionbreakdown_414',['ShowQuestionBreakdown',['../class_question_breakdown_manager.html#abba0157861a6a09178acbd8b662a99bd',1,'QuestionBreakdownManager.ShowQuestionBreakdown()'],['../class_question_breakdown_manager_teacher.html#a7083cbbe0162b96f89d2fbde57446dab',1,'QuestionBreakdownManagerTeacher.ShowQuestionBreakdown()']]],
+  ['signoutbutton_415',['SignOutButton',['../class_custom_stage_u_i_manager.html#a9efa073e6d94f34b8fd2d312b76a3d48',1,'CustomStageUIManager.SignOutButton()'],['../class_logout_button.html#ad77060c694e6ddf17d0194ddbb4d3df5',1,'LogoutButton.SignOutButton()'],['../class_leaderboard_u_i_manager.html#a270220372de7680b0437eaa1f8bfc526',1,'LeaderboardUIManager.SignOutButton()'],['../class_mastery_report_u_i_manager.html#abe9ea429554da3b02ff6db1535c3cf27',1,'MasteryReportUIManager.SignOutButton()'],['../class_firebase_manager.html#a83a4b2eb6b310d07555df3c82d6e2e6f',1,'FirebaseManager.SignOutButton()'],['../class_teacher_u_i_manager.html#a180661b373d914691fba137c5ba1e3e1',1,'TeacherUIManager.SignOutButton()']]],
+  ['start_416',['Start',['../class_teacher_u_i_manager.html#a192558213a5cfd99e92aab828075f4cf',1,'TeacherUIManager']]],
+  ['startbutton_417',['StartButton',['../class_choose_question_button.html#a69f022eda2c1aed02cb609c3222b36c9',1,'ChooseQuestionButton']]],
+  ['studentstatsscreen_418',['StudentStatsScreen',['../class_teacher_u_i_manager.html#ac7e3168702a05a3f5d16590d37ddb781',1,'TeacherUIManager']]]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['getcatfromname_350',['GetCatFromName',['../class_cat_list.html#a8728709e64d4f6c26597cb44ebdc9dab',1,'CatList.GetCatFromName()'],['../class_data_manager.html#abcae3ce08cee7f076de50bd05779bdab',1,'DataManager.GetCatFromName()']]],
+  ['getchosenquestionslist_351',['getChosenQuestionsList',['../class_custom_stage_choose_questions.html#adb2047220090e6aaf82fbd4a627f8968',1,'CustomStageChooseQuestions']]],
+  ['getcurcat_352',['getCurCat',['../class_quiz_manager.html#ac6c4cf0c8ed5377bf84eabb07c63d51e',1,'QuizManager']]],
+  ['getcurcats_353',['getCurCats',['../class_data_manager.html#a73ce380788ede92a82ead3c28d7d8c30',1,'DataManager']]],
+  ['getcurmap_354',['getCurMap',['../class_data_manager.html#a72173f87e18a1961bc4fd205d0382dff',1,'DataManager']]],
+  ['getcurstage_355',['getcurStage',['../class_data_manager.html#a9972b85a5767d0703cb5953498b1cf84',1,'DataManager']]],
+  ['getcustombackground_356',['getcustomBackground',['../class_play_custom_stage.html#af5014a22bb0f50940bb739392cc6fba0',1,'PlayCustomStage']]],
+  ['getcustompokemons_357',['getCustomPokemons',['../class_play_custom_stage.html#afd36691c9a061a7584d60ef8605b7ae6',1,'PlayCustomStage']]],
+  ['getcustomquestions_358',['getCustomQuestions',['../class_play_custom_stage.html#afbf5966b3ea184f17441a6a16bc43dbc',1,'PlayCustomStage']]],
+  ['getentrycoords_359',['getEntryCoords',['../class_data_manager.html#a19ce65e7a287a62a7a48c64f111029d2',1,'DataManager']]],
+  ['getexitcoords_360',['getExitCoords',['../class_data_manager.html#a78a2a62cb8d3836982d36d8f6f21aed9',1,'DataManager']]],
+  ['getlistlength_361',['GetListLength',['../class_cat_list.html#ad04c7b1b56b045f8be4dff41a0e82810',1,'CatList']]],
+  ['getnextmap_362',['getNextMap',['../class_data_manager.html#a832f7dbdc1defc1cc46de63b4f60769b',1,'DataManager']]],
+  ['getquestion_363',['GetQuestion',['../class_quiz_manager.html#a6e3965d627cb5e463f8090a875b10a40',1,'QuizManager']]],
+  ['getquizcat_364',['getQuizCat',['../class_data_manager.html#a3be6135b6af3a6a3ea57d5d734fbfc22',1,'DataManager']]],
+  ['getrandomcat_365',['getRandomCat',['../class_play_custom_stage.html#ab41cce38ecab326fd3d6829eea7ae6d7',1,'PlayCustomStage.getRandomCat()'],['../class_data_manager.html#acb5ec0e73e4c192dc05f906b4ddf2616',1,'DataManager.getRandomCat()']]],
+  ['gymquizsuccess_366',['GymQuizSuccess',['../class_quiz_manager.html#a16b55d4ad56b4f9826fc8d77baacea0a',1,'QuizManager']]]
+];

@@ -1,0 +1,65 @@
+var hierarchy =
+[
+    [ "AnsweredQns", "class_answered_qns.html", null ],
+    [ "Cat", "class_cat.html", null ],
+    [ "CatList", "class_cat_list.html", null ],
+    [ "CustomStage", "class_custom_stage.html", null ],
+    [ "DatabaseQuestion", "class_database_question.html", null ],
+    [ "Dialog", "class_dialog.html", null ],
+    [ "Interactable", "interface_interactable.html", [
+      [ "NPCController", "class_n_p_c_controller.html", null ]
+    ] ],
+    [ "MapCoords", "class_map_coords.html", null ],
+    [ "MapCoordsList", "class_map_coords_list.html", null ],
+    [ "MonoBehaviour", null, [
+      [ "ButtonUsername", "class_button_username.html", null ],
+      [ "CallingFirebase", "class_calling_firebase.html", null ],
+      [ "CameraFollow", "class_camera_follow.html", null ],
+      [ "ChooseQuestionButton", "class_choose_question_button.html", null ],
+      [ "CorrectCheck", "class_correct_check.html", null ],
+      [ "CreateOwnQuestion", "class_create_own_question.html", null ],
+      [ "CustomStageChooseQuestions", "class_custom_stage_choose_questions.html", null ],
+      [ "CustomStagePokemonButton", "class_custom_stage_pokemon_button.html", null ],
+      [ "CustomStageUIManager", "class_custom_stage_u_i_manager.html", null ],
+      [ "DataManager", "class_data_manager.html", null ],
+      [ "DataUnitTest", "class_data_unit_test.html", null ],
+      [ "DialogManager", "class_dialog_manager.html", null ],
+      [ "FirebaseManager", "class_firebase_manager.html", null ],
+      [ "GameController", "class_game_controller.html", null ],
+      [ "InstructionButton", "class_instruction_button.html", null ],
+      [ "Inventory", "class_inventory.html", null ],
+      [ "LeaderboardManager", "class_leaderboard_manager.html", null ],
+      [ "LeaderboardUIManager", "class_leaderboard_u_i_manager.html", null ],
+      [ "LevelUnlocked", "class_level_unlocked.html", null ],
+      [ "LoadTest", "class_load_test.html", null ],
+      [ "LogoutButton", "class_logout_button.html", null ],
+      [ "MasteryReportTable", "class_mastery_report_table.html", null ],
+      [ "MasteryReportTeacher", "class_mastery_report_teacher.html", null ],
+      [ "MasteryReportUIManager", "class_mastery_report_u_i_manager.html", null ],
+      [ "NPCController", "class_n_p_c_controller.html", null ],
+      [ "PlayCustomStage", "class_play_custom_stage.html", null ],
+      [ "PlayerController", "class_player_controller.html", null ],
+      [ "QuestionBreakdownManager", "class_question_breakdown_manager.html", null ],
+      [ "QuestionBreakdownManagerTeacher", "class_question_breakdown_manager_teacher.html", null ],
+      [ "QuitButton", "class_quit_button.html", null ],
+      [ "QuizManager", "class_quiz_manager.html", null ],
+      [ "RegisterUser", "class_register_user.html", null ],
+      [ "Replace", "class_replace.html", null ],
+      [ "ReplaceSlots", "class_replace_slots.html", null ],
+      [ "ShareCustomStage", "class_share_custom_stage.html", null ],
+      [ "TeacherUIManager", "class_teacher_u_i_manager.html", null ],
+      [ "UIManager", "class_u_i_manager.html", null ],
+      [ "ViewQuestionBreakdwon", "class_view_question_breakdwon.html", null ],
+      [ "ViewQuestionBreakdwonTeacher", "class_view_question_breakdwon_teacher.html", null ],
+      [ "inventorySlotController", "classinventory_slot_controller.html", null ]
+    ] ],
+    [ "PlayerInfo", "class_player_info.html", null ],
+    [ "QuestionsAndAnswers", "class_questions_and_answers.html", null ],
+    [ "ScriptableObject", null, [
+      [ "Item", "class_item.html", [
+        [ "Consumable", "class_consumable.html", null ],
+        [ "Pokemon", "class_pokemon.html", null ]
+      ] ]
+    ] ],
+    [ "User", "class_user.html", null ]
+];
